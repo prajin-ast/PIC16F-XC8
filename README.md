@@ -10,4 +10,5 @@ MPLAB XC8 Compiler Book (AppSoftTech)
 ** การปรับปรุง
 (V1.1) ปรับปรุงแก้ไขเรื่อง โค้ดอินเตอร์รัปต์ มีการเปลี่ยนแปลงดังนี้
 c standard: C99 : void __interrupt() isr(void) {}
+
 c standard: C90 : static void interrupt() isr(void) {}
